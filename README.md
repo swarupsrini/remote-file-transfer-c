@@ -1,4 +1,4 @@
-# socket-works-c
+# remote-file-transfer-c
 A project written in C, this is a system used for transferring files between two computer systems, a client and a server remotely via sockets using the sys/socket.h UNIX library and synchronous I/O multiplexing.
 
 # Usage
